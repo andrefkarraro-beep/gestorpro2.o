@@ -1,0 +1,8 @@
+{
+  "appId": "com.gestorservicos.app",
+  "appName": "GestorServiços",
+  "webDir": "dist",
+  "android": {
+    "allowMixedContent": true
+  }
+}

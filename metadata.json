@@ -1,0 +1,10 @@
+{
+  "name": "Oneira — Dream Journal",
+  "description": "Multi-modal dream journal with morning voice capture, surrealist theme imagery, structured Jungian archetypal interpretation, and interactive symbol dialogue.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
